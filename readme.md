@@ -9,6 +9,7 @@ This repository contains a sample Android Kotlin project developed using Jetpack
 - Viewing a list of tweets related to a user
 - Posting new text or image tweets
 - Uploading images to Cloud Storage and saving messages to Firestore 
+- Receiving Push Notifications
 
 ## Project Structure
 
